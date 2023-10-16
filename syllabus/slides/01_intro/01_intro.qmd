@@ -1,0 +1,98 @@
+---
+title: "EINFÜHRUNG IN DIE SYNTAX DES SPANISCHEN"
+format: revealjs
+incremental: true 
+editor: source
+logo: "g_logo.png"
+fontsize: 24px
+---
+
+# Intro
+
+-   Ich bin Kyle
+    -   email
+
+---
+
+# Intro
+
+Wer sind sie? 
+
+---
+
+# Buch
+
+Camacho, J. (2018). **Introducción a la sintaxis del español**. Cambridge University Press.
+
+---
+
+# Zeitplan
+
+https://kparrish92.github.io/syntax_23/syllabus/index.html
+
+---
+
+# RAE (Real Academia Española)
+
+- Eine Institution für die Pflege der spanischen Sprache
+
+- www.rae.es
+
+---
+
+# In Gruppen...
+
+- Ist die RAE notwendig? Warum oder warum nicht?
+
+- Wenn es die RAE nicht gäbe, was würde dann mit der spanischen Sprache passieren?
+
+---
+
+Erklären Sie die in der folgenden Definition fett markierten Konzepte:
+
+Eine Sprache ist eine Form **sozialen Verhaltens (1)**, die ermöglicht Kommunikation durch **kreative Nutzung (2)**. Sie besteht aus **geordneten Systemen (3)** von **mündliche Zeichen (4)** die **willkürlich (5)** sind
+
+
+---
+
+## 1. Sozialverhalten
+
+Sprache ist das Ergebnis der Interaktion innerhalb einer Gemeinschaft.
+
+Ohne einen anderen Menschen ist es undenkbar und möglicherweise unmöglich, eine Sprache zu schaffen.
+
+Sprache ist das Ergebnis eines Konsenses innerhalb einer Gemeinschaft.
+
+---
+
+## 2. ermöglicht Kommunikation durch kreative Nutzung
+
+Die gleiche Idee kann auf verschiedene Arten ausgedrückt werden.
+
+Wir sehen Kreativität in der Kombination sprachlicher Laute, wenn wir verschiedene Sprachen vergleichen.
+
+Das Lexikon ist ein Bereich großer Kreativität, da in jeder Sprache ständig neue Wörter geschaffen werden.
+
+---
+
+## 3. geordnetes System
+
+Es handelt sich um ein geordnetes System, da es durch grammatikalische Regeln geregelt ist, deren Anwendung alle Sprecher vereinbaren.
+
+---
+
+## 4. mündliche Zeichen
+
+Die Definition eines Zeichens ist: eine visuelle, akustische oder taktile Darstellung, die etwas anderes darstellt und auf die man sich geeinigt hat; es besteht keinerlei natürliche Beziehung zwischen dem Zeichen und dem Konzept oder der Sache, die durch das Zeichen dargestellt wird.
+
+Nicht nur in der Sprache finden wir Zeichen, auch in der Begrüßung (z. B. beim Begrüßen oder Verabschieden mit der Hand oder bei Autosignalen) finden wir sie.
+
+Wir sagen, dass Sprache aus einem geordneten System mündlicher Zeichen entsteht, da Sprache durch Mündlichkeit erlernt wird und dies der wesentliche Teil einer Sprache ist. Es gibt Sprachen, die keine Schrift haben, sondern nur Mündlichkeit, und dennoch betrachten wir sie weiterhin als Sprachen und sie erfüllen ihre kommunikative Funktion innerhalb der Sprechergemeinschaft.
+
+---
+
+## 5. Willkürliche Zeichen
+
+Wir können sagen, dass die Zeichen, aus denen eine Sprache besteht, willkürlich sind, da sie keinen Bezug zu ihrer Bedeutung haben. Das heißt, in der Sprache gibt es keinen Grund oder natürlichen Zusammenhang, der die Zeichen rechtfertigen könnte, die zur Benennung von Objekten oder Konzepten verwendet werden.
+
+Was ist der offensichtliche Beweis dafür, dass Sprachen Mengen willkürlicher Zeichen sind? Dass es mehr als 6000 Sprachen auf der Welt gibt. Daher entscheidet die Gemeinschaft der Sprecher willkürlich (da es keinen logischen oder natürlichen Zusammenhang zwischen dem Zeichen und der dargestellten Sache oder dem dargestellten Begriff gibt), ein bestimmtes Zeichen mit einer bestimmten Sache oder einem bestimmten Begriff zu assoziieren.
